@@ -22,9 +22,9 @@ client.remove_command('help')
 async def on_reaction_add(reaction,user):
             if user.id == 646937666251915264:
                 if str(reaction.emoji) == "🍬":
-                    await message.add_reaction("🍬")
+                    await reaction.message.add_reaction("🍬")
                 if str(reaction.emoji) == "🍫":
-                    await message.add_reaction("🍫")
+                    await reaction.message.add_reaction("🍫")
                     
 
     
