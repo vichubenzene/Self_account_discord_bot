@@ -1,3 +1,5 @@
+# For pokemon grinder 
+
 This Pokemon auto catcher can be used only if the the pokemon bot doesn't use slash commands for catching.. which may make this autocather bot unusable after April 2022.. where the discord bot privacy policy changes the verified bots to use onlyslash commandss for communication
 
 
