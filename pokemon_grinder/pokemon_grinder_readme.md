@@ -13,8 +13,11 @@ So the bot account gets the image and using cv2 lib it finds the pokemon name.. 
 
 
 I used 2 user accunts duel aginst each other.. which grinds 10 crds per battle, which made a avrg of 30,000 credits per day.. i didn't add the code here cuz they replaced emoji to buttons.. where buttons are ment for human press..
- 
-hmmm... it took me a time to figure out this communication between user acc and bot acc.. it runs like as it was fixed with a 5 bucks sticky paste.. but it is effective it made my 3 accounts reach top table on the leaderboard of pokemon bot (ID:669228505128501258) with 1.5 million pokemons per account.. still grinding more till the slash commands gets into action..
-i lost intrest in this feild now.. i stoped trying to make it for work for slash commands and buttons
 
-If you need more details and help join my <a href="https://discord.gg/jF879hKJ4y"> discord server</a>
+ 
+Hmmm...
+It took me quit some time to figure out this communication between user acc and bot acc.. it runs like as it was fixed with a 5 bucks sticky paste.. but it is effective it made my 3 accounts reach top table on the leaderboard of pokemon bot (ID:669228505128501258) with 1.5 million pokemons per account.. still grinding more till the slash commands gets into action..
+
+I lost intrest in this feild now.. i stoped trying to make it for work for slash commands and buttons
+
+If you need more details and help join my <a href="https://discord.gg/jF879hKJ4y"> discord server</a> 
