@@ -77,5 +77,5 @@ async def on_ready():
 
 
 
-keep_alive()
+
 client.run(os.getenv('fuck'))
