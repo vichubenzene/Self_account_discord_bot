@@ -18,7 +18,8 @@ client = commands.Bot(command_prefix=prefix, case_insensitive=True, self_bot=Tru
 
 client.remove_command('help')
 
-@client.event
+#event time collecter
+@client.event 
 async def on_reaction_add(reaction,user):
             if user.id == 646937666251915264:
                 if str(reaction.emoji) == "🍬":
