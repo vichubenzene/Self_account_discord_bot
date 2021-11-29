@@ -3,7 +3,9 @@
 This Pokemon auto catcher can be used only if the the pokemon bot doesn't use slash commands for catching.. which may make this autocather bot unusable after April 2022.. where the discord bot privacy policy changes the verified bots to use onlyslash commandss for communication
 
 
-to use this bot run the file <a href="https://github.com/vichubenzene/Self_account_discord_bot/blob/main/pokemon_grinder/user%20account.py">User accounnt.py</a>.. and <a href="https://github.com/vichubenzene/Self_account_discord_bot/tree/main/pokemon_grinder/pokemon">Bot account</a> in other environment
+to use this bot run the file <a href="https://github.com/vichubenzene/Self_account_discord_bot/blob/main/pokemon_grinder/user%20account.py">User accounnt.py</a>.. and <a href="https://github.com/vichubenzene/Self_account_discord_bot/tree/main/pokemon_grinder/pokemon">Bot account</a> in other environment 
+
+To make the pokemon spawn.. user spam bots <a href="https://github.com/vichubenzene/Self_account_discord_bot/blob/main/pokemon_grinder/spam.py">Spam.py</a> create it more for faster spawn..
 
 
 alogorithm :
