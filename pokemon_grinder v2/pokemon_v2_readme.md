@@ -4,8 +4,9 @@ Major changes between v1 and v2 is reading message.content using bots account ch
 
 This Pokemon auto catcher can be used only if the the pokemon bot doesn't use slash commands for catching.. which may make this autocather bot unusable after April 2022.. where the discord bot privacy policy changes the verified bots to use onlyslash commandss for communication
 
+<hr>
 
-Alogorithm :
+# Alogorithm :
 
 user account does not have permission to read the message contents sent by others... but it can read the its content when its is already sent.. using the channel.history() 
 
