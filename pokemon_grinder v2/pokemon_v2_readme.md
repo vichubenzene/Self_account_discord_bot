@@ -1,6 +1,6 @@
 # pokemon grinder v2 
 
-Major changes between v1 and v2 is reading using message.content bots changed to user account which made the energy consumption of the grinder to half with increase efficiency 
+Major changes between v1 and v2 is reading message.content using bots account changed to user account which made the energy consumption of the grinder to half with increased efficiency 
 
 This Pokemon auto catcher can be used only if the the pokemon bot doesn't use slash commands for catching.. which may make this autocather bot unusable after April 2022.. where the discord bot privacy policy changes the verified bots to use onlyslash commandss for communication
 
