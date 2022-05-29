@@ -12,10 +12,9 @@ Self bots cant enable privileged intents and It cant read the message contents w
 
 I did this only to grind Points in 
 1. Dank memer (coins) 24/7 over useage reslult in blacklist
-2. karuta candy  24/7 i didn't get any ban
+2. Karuta Auto card and event items collecter 24/7
 3. owo 24/7
-4. karuta Auto card and event items collecter
-5. Pokemon Autocatcher
+4. Pokemon Autocatcher 24/7
 Join <a href="https://discord.gg/cyKAjwcZdB">support server</a> if you want to know more about 
 
 1. pokemon catching bot 24/7  (out dated.. if it uses / command to catch)
