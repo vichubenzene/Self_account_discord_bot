@@ -14,13 +14,12 @@ I did this only to grind Points in
 1. Dank memer (coins) 24/7 over useage reslult in blacklist
 2. karuta candy  24/7 i didn't get any ban
 3. owo 24/7
-
-
+4. karuta Auto card and event items collecter
+5. Pokemon Autocatcher
 Join <a href="https://discord.gg/cyKAjwcZdB">support server</a> if you want to know more about 
 
-1. pokemon catching bot 24/7
-2. anigame card claiming 24/7
-
+1. pokemon catching bot 24/7  (out dated.. if it uses / command to catch)
+2. anigame card claiming 24/7 (out dated.. if buttons are used)
 
 <h4> These are the global currency bots.. these self bot can also be used to grind in all bots join <a href="https://discord.gg/cyKAjwcZdB">support server</a> to know more about it </h4>
 
