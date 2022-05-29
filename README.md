@@ -16,6 +16,7 @@ I did this only to grind Points in
 3. owo 24/7
 4. Pokemon Autocatcher 24/7
 5. Anigame Autocatcher 24/7
+
 Join <a href="https://discord.gg/cyKAjwcZdB">support server</a> if you want to know more about 
 
 Results:
