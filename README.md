@@ -23,8 +23,11 @@ Join <a href="https://discord.gg/cyKAjwcZdB">support server</a> if you want to k
 Results:
 
 Dank memer - got blacklisted after overusage
+
 Karuta - Blacklisted after makinf more than $1100 Usd 
+
 Pokemon - Blacklisted after making to top catching table  
+
 Anigame - out dated because of buttons
 
 <h4> These are the global currency bots.. these self bot can also be used to grind in all bots join <a href="https://discord.gg/cyKAjwcZdB">support server</a> to know more about it </h4>
