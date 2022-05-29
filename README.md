@@ -20,16 +20,17 @@ I did this only to grind Points in
 Join <a href="https://discord.gg/cyKAjwcZdB">support server</a> if you want to know more about 
 
 <hr>
-Results:
+Over usage Results:
 
-Dank memer - got blacklisted after overusage
+> Dank memer - got blacklisted after overusage
 
-Karuta - Blacklisted after makinf more than $1100 Usd 
+> Karuta - Blacklisted after makinf more than $1100 Usd 
 
-Pokemon - Blacklisted after making to top catching table  
+> Pokemon - Blacklisted after making to top catching table  
 
-Anigame - out dated because of buttons
+> Anigame - out dated because of buttons
 
+<hr>
 <h4> These are the global currency bots.. these self bot can also be used to grind in all bots join <a href="https://discord.gg/cyKAjwcZdB">support server</a> to know more about it </h4>
 
 As a evil part these bots are widely used to Nuke server and Mass dm people for advertistment or scam
