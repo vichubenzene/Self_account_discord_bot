@@ -19,7 +19,9 @@ I did this only to grind Points in
 
 Join <a href="https://discord.gg/cyKAjwcZdB">support server</a> if you want to know more about 
 
+<hr>
 Results:
+
 Dank memer - got blacklisted after overusage
 Karuta - Blacklisted after makinf more than $1100 Usd 
 Pokemon - Blacklisted after making to top catching table  
