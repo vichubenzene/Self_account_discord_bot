@@ -24,7 +24,7 @@ Join <a href="https://discord.gg/cyKAjwcZdB">support server</a> if you want to k
 
 > Dank memer - got blacklisted after overusage
 
-> Karuta - Blacklisted after makinf more than $1100 Usd 
+> Karuta - Blacklisted after making more than $1100 Usd 
 
 > Pokemon - Blacklisted after making to top catching table  
 
