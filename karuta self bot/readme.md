@@ -3,7 +3,7 @@
 This Does not uses Card detection  method, Instead it done by using Bot's like kalender which sends a replay message for karuta message - if a good card drops with the number emoji on it
 
   
-WE use Spam accs to make Karuta drop cards.. and task function for user id to drop every 30 mins 
+WE use Spam accs to make Karuta drop cards.. and task function for extra verified user id to drop every 30 mins 
 We Use Bot Acc to read the message sent by Kalender (detecter bot)  and fetch the Karuta message Id with the good one and react some thing on it.. <br>
 As User ot Acc's can read the on_reaction method it reacts the specified number emoji to the Karuta's Message which results in card collection
 
@@ -17,7 +17,7 @@ Set proper delay depending on ur Host <br>
 
 
 As mentioned in <a href="https://github.com/vichubenzene/Self_account_discord_bot/blob/main/README.md"> Readme </a> <br>
-I over used which got me blacklisted after making more than $1100  <br>
+I over used which got me blacklisted after making more than $1100 in cross trade<br>
 
 I grinded With <br>
 22 spam id's <a href="https://github.com/vichubenzene/Self_account_discord_bot/blob/main/karuta%20self%20bot/spam.py"> spam.py code </a> <br>
