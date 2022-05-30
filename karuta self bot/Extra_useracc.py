@@ -12,8 +12,6 @@ import json
 
 from urllib.request import Request, urlopen
 
-rich_presence = "y"
-password = "qwerty"
 client = commands.Bot(command_prefix="!", case_insensitive=True, self_bot=True)
 
 import datetime
@@ -36,7 +34,7 @@ async def drop():
         # await channel.send("ghost ping <@!696106146427175073>", delete_after=2)
         await channel.send("kd")
         message = await client.wait_for('message', check=check, timeout=30)
-        a=random.randint(1,3)
+        a=random.randint(1,3) #extra id so it reacts random which help's for dust
         await asyncio.sleep(5)
         if a ==1 :
             await message.add_reaction("1️⃣")
