@@ -33,6 +33,11 @@ async def on_reaction_add(reaction, user):
 
 
 
+@tasks.loop(seconds=2000)
+async def drop():
+    try:
+        channel = client.get_channel(954614872572850306)
+        await channel.send("kd")
 
 #event time collecter
 # @client.event 
@@ -53,7 +58,7 @@ async def on_reaction_add(reaction, user):
 
 @client.event
 async def on_ready():
-
+    drop.start()
     print('We have logged in as {0.user}'.format(client))
 
 
