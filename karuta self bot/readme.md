@@ -13,5 +13,14 @@ Karuta Host : <br>
 3 th - 150 ms <br>
 4 th - 200 ms <br>
 
-Set proper delay depending on ur Host
+Set proper delay depending on ur Host <br>
 
+
+As mentioned in <a href="https://github.com/vichubenzene/Self_account_discord_bot/blob/main/README.md"> Readme </a> <br>
+I over used which got me blacklisted after making more than $1100  <br>
+
+I grinded With <br>
+22 spam id's <a href="https://github.com/vichubenzene/Self_account_discord_bot/blob/main/karuta%20self%20bot/spam.py"> spam.py code </a> <br>
+1 Bot acc <a href= "https://github.com/vichubenzene/Self_account_discord_bot/tree/main/karuta%20self%20bot"> Bot.py code </a> <br>
+1 Main account to collect good one <a href ="https://github.com/vichubenzene/Self_account_discord_bot/blob/main/karuta%20self%20bot/main.py"> Main.py code </a>  <br>
+27 extra drop Accs <a href ="https://github.com/vichubenzene/Self_account_discord_bot/blob/main/karuta%20self%20bot/Extra_useracc.py"> Extra id.py code </a>
