@@ -26,11 +26,11 @@ Join <a href="https://discord.gg/cyKAjwcZdB">support server</a> if you want to k
 
 > Karuta - <u> Blacklisted </u> after making more than $1100 Usd 
 
-> Pokemon - <u>Blacklisted</u> after making to top catching table  
+> Pokemon - <u>Blacklisted</u> after making on top catching leaderboard table  
 
 > Anigame - <u>out dated</u> because of buttons
 
 <hr>
-<h4> These are the global currency bots.. these self bot can also be used to grind in all bots join <a href="https://discord.gg/cyKAjwcZdB">support server</a> to know more about it </h4>
+<h4> These are the global currency bots.. these self bot can also be used for grinding in all bots join <a href="https://discord.gg/cyKAjwcZdB">support server</a> to know more about it </h4>
 
 As a evil part these bots are widely used to Nuke server and Mass dm people for advertistment or scam
